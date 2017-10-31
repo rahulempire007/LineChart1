@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml
+		INJECTED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml
+		INJECTED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml
+		INJECTED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml
+application
+ADDED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\RahulReign\.android\build-cache\e0d36658ffad7d6b5472e125b067af007b70f408\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\RahulReign\.android\build-cache\01d5ac9222c312dad5929c389792e48334229aa4\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml:10:9-40
+activity#app.num.linechart.MainActivity
+ADDED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\RahulReign\.android\build-cache\e0d36658ffad7d6b5472e125b067af007b70f408\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\RahulReign\.android\build-cache\01d5ac9222c312dad5929c389792e48334229aa4\output\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml
+		INJECTED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml
+		INJECTED from F:\LineChartDigi\LineChart\app\src\main\AndroidManifest.xml

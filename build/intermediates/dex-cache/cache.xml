@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\RahulReign\.android\build-cache\01d5ac9222c312dad5929c389792e48334229aa4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\LineChartDigi\LineChart\app\build\intermediates\pre-dexed\debug\classes_3b5fb4daf86045793620fb14f78425f21a6b8389.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RahulReign\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.1.6\b036abbb61656165da99cf44898e4b9123687e65\MPAndroidChart-v2.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b036abbb61656165da99cf44898e4b9123687e65">
+        <dex dex="F:\LineChartDigi\LineChart\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.1.6_51c49c4b7d5048dd3d833a61ef1e186e004a883b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RahulReign\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\LineChartDigi\LineChart\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_c3884a00a72c42a6c7d4ea6e84c413f2c748f34d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RahulReign\.android\build-cache\01d5ac9222c312dad5929c389792e48334229aa4\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\LineChartDigi\LineChart\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_ffca1fff143c8eb91a18ef1ddefc831ee47a8940.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RahulReign\.android\build-cache\e0d36658ffad7d6b5472e125b067af007b70f408\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="F:\LineChartDigi\LineChart\app\build\intermediates\pre-dexed\debug\classes_4534c6b3c0aa2ac7018f3cc6d8d0d19dc34edd11.jar" />
+    </item>
+
+</items>
